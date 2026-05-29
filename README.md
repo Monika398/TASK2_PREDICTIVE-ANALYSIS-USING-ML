@@ -69,3 +69,8 @@ The machine learning model achieved an accuracy score of 100%, indicating excell
 This project successfully demonstrated the process of predictive analysis using machine learning. It provided practical experience in data preprocessing, model training, prediction, and evaluation. The project also highlighted the importance of machine learning in solving real-world classification problems efficiently and accurately.
 
 
+*OUTPUT_SCREENSHOT*
+
+<img width="1157" height="808" alt="Image" src="https://github.com/user-attachments/assets/861506a7-b32b-46e7-94e1-b0c40db7ab94" />
+
+<img width="1383" height="830" alt="Image" src="https://github.com/user-attachments/assets/660924ca-e243-4e83-97ef-fea80738d6ef" />
