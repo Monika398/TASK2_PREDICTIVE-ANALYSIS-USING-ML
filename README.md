@@ -14,6 +14,10 @@
 
 *DESCRIPTION OF TASK2* :
 
+## Note
+
+*NOTE-If GitHub does not render the notebook preview, please download `codetech_task2.ipynb` and open it in Google Colab or Jupyter Notebook. The notebook executes correctly and all outputs have been verified.*
+
 # Predictive Analysis Using Machine Learning
 
 ## Project Overview
